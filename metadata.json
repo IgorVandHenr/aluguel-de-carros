@@ -1,0 +1,6 @@
+{
+  "name": "Aluguel de Carros",
+  "description": "Sistema para cadastro de carros, clientes e locação, com persistência direta no Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
